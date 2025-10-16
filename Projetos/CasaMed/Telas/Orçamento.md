@@ -6,6 +6,7 @@
 | Wireframes Low-Fidelity (Todas as telas) | 12                 | 18                 |
 | Protótipo Interativo e Clicável (Figma)  | 12                 | 20                 |
 | **Total da Fase**                        | **28**             | **44**             |
+|                                          |                    |                    |
 
 ### **Fase 2: Back-end e Infraestrutura (Supabase)**
 

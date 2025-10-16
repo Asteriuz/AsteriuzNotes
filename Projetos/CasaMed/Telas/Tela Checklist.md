@@ -11,30 +11,30 @@
 
 ---
 
-##### **Seção 2: Inspeção Preliminar do Transporte** Esta seção digitaliza as primeiras quatro perguntas do formulário em papel.
+##### **Seção 2: Inspeção Preliminar do Transporte** 
 
 - **Existe Produto Exposto ao meio externo durante o transporte?**
     
-    - ( ) Sim / (x) Não
+    - <span style="background-color: #4a4a4a; color: #cccccc; padding: 4px 10px; border-radius: 12px; font-size: 14px;">( ) Sim</span> <span style="background-color: #dc3545; color: #ffffff; padding: 4px 10px; border-radius: 12px; font-size: 14px; font-weight: 500;">(x) Não</span>
         
 - **Presença de materiais cortantes ou sujeiras durante o transporte?**
     
-    - ( ) Sim / (x) Não
+    - <span style="background-color: #4a4a4a; color: #cccccc; padding: 4px 10px; border-radius: 12px; font-size: 14px;">( ) Sim</span> <span style="background-color: #dc3545; color: #ffffff; padding: 4px 10px; border-radius: 12px; font-size: 14px; font-weight: 500;">(x) Não</span>
         
 - **Presença de produtos com características diferentes da qual foi solicitado?**
     
-    - ( ) Sim / (x) Não
+    - <span style="background-color: #4a4a4a; color: #cccccc; padding: 4px 10px; border-radius: 12px; font-size: 14px;">( ) Sim</span> <span style="background-color: #dc3545; color: #ffffff; padding: 4px 10px; border-radius: 12px; font-size: 14px; font-weight: 500;">(x) Não</span>
         
 - **Condições Gerais de Higiene do Meio de Transporte?**
     
-    - (x) OK / ( ) Não Conforme (NC)
+    - <span style="background-color: #28a745; color: #ffffff; padding: 4px 10px; border-radius: 12px; font-size: 14px; font-weight: 500;">(x) OK</span> <span style="background-color: #4a4a4a; color: #cccccc; padding: 4px 10px; border-radius: 12px; font-size: 14px;">( ) Não Conforme (NC)</span>
         
 - **Campo de Observações/Especificação:** Um campo de texto para adicionar detalhes caso alguma resposta seja "Sim" ou "Não Conforme".
     
 
 ---
 
-##### **Seção 3: Critérios de Aceitação (O Checklist Interativo)** Digitalização da tabela principal:
+##### **Seção 3: Critérios de Aceitação** 
 
 1. **Descrição Correta do Produto na Nota Fiscal**
     
@@ -111,4 +111,6 @@
 
 Ao clicar em "Reprovar", o sistema exige o preenchimento de um campo de **"Justificativa da Reprovação"**.
 
-Caso aprovado irá para a tela da Diretoria [[Geral#Diretoria]]
+Caso aprovado irá para a tela da Diretoria [[Tela Geral#Diretoria]]
+
+

@@ -66,7 +66,7 @@ Onde a validação e autorização principal ocorrem.
         
         - Dados da NF (importados ou digitados na portaria).
             
-        - **Integração:** Dados da Ordem de Compra correspondente, puxados dosistema ERP (Ace4).
+        - **Integração:** Dados da Ordem de Compra correspondente, puxados do sistema ERP (Ace4).
             
         - Visualização lado a lado da NF e da OC para fácil conferência.
             
